@@ -1,0 +1,13 @@
+button {
+  background-color:antiquewhite;
+  border: solid;
+  padding: 15px 32px;
+
+}
+h1, h5, p {
+  text-align:center;
+}
+
+body {
+  background-color: #bffff1;
+}
